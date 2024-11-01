@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="45357efd-26f8-4c03-92f7-8dfcbfe226f5" name="更改" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/3jsPro/tjs/src/assets/models/Room&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/3jsPro/per&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -81,15 +82,16 @@
       <recent name="G:\3jsPro\tjs\src\assets\font" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\3jsPro\tjs\src" />
       <recent name="G:\3jsPro\tjs" />
+      <recent name="G:\3jsPro\tjs\src\js" />
+      <recent name="G:\3jsPro\tjs\src" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21155.17" />
-        <option value="bundled-js-predefined-d6986cc7102b-bed05e336f61-JavaScript-IU-243.21155.17" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.23" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.23" />
       </set>
     </attachedChunks>
   </component>
@@ -127,6 +129,11 @@
       <workItem from="1730115681892" duration="49000" />
       <workItem from="1730177907031" duration="9935000" />
       <workItem from="1730348665891" duration="258000" />
+      <workItem from="1730353544387" duration="48000" />
+      <workItem from="1730443799756" duration="3836000" />
+      <workItem from="1730455964804" duration="1026000" />
+      <workItem from="1730463427936" duration="76000" />
+      <workItem from="1730471237459" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -344,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730190724093</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="1">
+      <option name="closed" value="true" />
+      <created>1730353573991</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1730353573991</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
